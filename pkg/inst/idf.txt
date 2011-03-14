@@ -1,266 +1,54 @@
-#  This is a formular containing all valid idf-tags provided by the mage-tab format.
-#  For more information visit http://tab2mage.sourceforge.net/docs/idf.html
-#  All lines beginning with the '#' character are treated as comments and will be ignored.
+[IDF]
 
-
-
-#  Investigation      Title
-#  
-#  
-Investigation      Title
-
-#  Experimental Design
-#  
-#  
+Investigation Title
 Experimental Design
-
-#  Experimental Design Term Source REF
-#  
-#  
-Experimental Design Term Source REF
-
-#  Experimental Design Term Accession Number
-#  
-#  
-Experimental Design Term Accession Number
-
-#  Experimental Factor Name
-#  
-#  
-Experimental Factor Name
-
-#  Experimental Factor Type
-#  
-#  
-Experimental Factor Type
-
-#  Experimental Factor Term Source REF
-#  
-#  
+Experimental Design 
+Experimental Design 
+Experimental Factor Name	
+Experimental Factor Type	
 Experimental Factor Term Source REF
-
-#  Experimental Factor Term Accession Number
-#  
-#  
 Experimental Factor Term Accession Number
-
-#  Person Last      Name
-#  
-#  
-Person Last      Name
-
-#  Person First      Name
-#  
-#  
-Person First      Name
-
-#  Person Mid      Initials
-#  
-#  
-Person Mid      Initials
-
-#  Person Email
-#  
-#  
-Person Email
-
-#  Person Phone
-#  
-#  
+Person Last Name	
+Person First Name	
+Person Mid Initials	
+Person Email	
 Person Phone
-
-#  Person Fax
-#  
-#  
 Person Fax
-
-#  Person      Address
-#  
-#  
-Person      Address
-
-#  Person      Affiliation
-#  
-#  
-Person      Affiliation
-
-#  Person Roles
-#  
-#  
+Person Address
+Person Affiliation
 Person Roles
-
-#  Person      Roles Term Source REF
-#  
-#  
-Person      Roles Term Source REF
-
-#  Person Roles Term Accession Number
-#  
-#  
+Person Roles Term Source REF
 Person Roles Term Accession Number
-
-#  Quality Control      Type
-#  
-#  
-Quality Control      Type
-
-#  Quality Control Term Source REF
-#  
-#  
+Quality Control Type
 Quality Control Term Source REF
-
-#  Quality Control Term Accession Number
-#  
-#  
 Quality Control Term Accession Number
-
-#  Replicate      Type
-#  
-#  
-Replicate      Type
-
-#  Replicate Term Source REF
-#  
-#  
+Replicate Type
 Replicate Term Source REF
-
-#  Replicate Term Accession Number
-#  
-#  
 Replicate Term Accession Number
-
-#  Normalization      Type
-#  
-#  
-Normalization      Type
-
-#  Normalization Term Source REF
-#  
-#  
+Normalization Type
 Normalization Term Source REF
-
-#  Normalization Term Accession Number
-#  
-#  
 Normalization Term Accession Number
-
-#  Date of      Experiment
-#  
-#  
-Date of      Experiment
-
-#  Public      Release Date
-#  
-#  
-Public      Release Date
-
-#  PubMed ID
-#  
-#  
-PubMed ID
-
-#  Publication      DOI
-#  
-#  
-Publication      DOI
-
-#  Publication      Author List
-#  
-#  
-Publication      Author List
-
-#  Publication      Title
-#  
-#  
-Publication      Title
-
-#  Publication      Status
-#  
-#  
-Publication      Status
-
-#  Publication Status Term Source REF
-#  
-#  
+Date of Experiment
+Public Release Date	
+PubMed ID	
+Publication DOI	
+Publication Author List	
+Publication Title	
+Publication Status	
 Publication Status Term Source REF
-
-#  Publication Status Term Accession Number
-#  
-#  
 Publication Status Term Accession Number
-
-#  Experiment      Description
-#  
-#  
-Experiment      Description
-
-#  Protocol      Name
-#  
-#  
-Protocol      Name
-
-#  Protocol      Type
-#  
-#  
-Protocol      Type
-
-#  Protocol      Description
-#  
-#  
-Protocol      Description
-
-#  Protocol      Parameters
-#  
-#  
-Protocol      Parameters
-
-#  Protocol      Hardware
-#  
-#  
-Protocol      Hardware
-
-#  Protocol      Software
-#  
-#  
-Protocol      Software
-
-#  Protocol      Contact
-#  
-#  
-Protocol      Contact
-
-#  Protocol Term Source REF
-#  
-#  
+Experiment Description
+Protocol Name
+Protocol Type
+Protocol Description
+Protocol Parameters
+Protocol Hardware
+Protocol Software	
+Protocol Contact
 Protocol Term Source REF
-
-#  Protocol Term Accession Number
-#  
-#  
 Protocol Term Accession Number
-
-#  SDRF File
-#  
-#  
 SDRF File
-
-#  Term      Source Name
-#  
-#  
-Term      Source Name
-
-#  Term      Source File
-#  
-#  
-Term      Source File
-
-#  Term      Source Version
-#  
-#  
-Term      Source Version
-
-#  Comment
-#  
-#  
+Term Source Name
+Term Source File
+Term Source Version
 Comment
-
