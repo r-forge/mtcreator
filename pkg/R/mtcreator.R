@@ -11,7 +11,7 @@ mtcreator <- function(interact = FALSE, rawbool=TRUE, rawlocation=".", expressio
   else{
     if(.check_input(rawbool, rawlocation, expressionset, output_path)){
       if(rawbool==TRUE){
-        logic_raw <- manage_raw(output_path, interact=FALSE, rawlocation)
+        logic_raw <- .manage_raw(output_path, interact=FALSE, rawlocation)
       }
     }
     else{
