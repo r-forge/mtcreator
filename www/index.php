@@ -43,7 +43,14 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
+<h1>Welcome to the Project Homepage of mtcreator</h1>
+<p>The R package 'mtcreator' is the corresponding R package to the more functional perl program 'mtcreator'(<a href="http://sourceforge.net/projects/mtcreator/").
+The program was initially developed during a bachelor´s thesis by Fabian Grandke. For further information look at the vignette of the R package.
+If there are still questions remaining, please do not hesitate to ask (ben4571 (at) ibe.med.uni-muenchen.de). 
+</p>
+
+
+
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
