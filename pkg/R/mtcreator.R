@@ -1,7 +1,7 @@
 ##################################################
 ## Main function called by user
 ##################################################
-mtcreator <- function(interact = FALSE, rawbool=TRUE, rawlocation=".", expressionset, output_path="",...)
+mtcreator <- function(interact = FALSE, rawbool=FALSE, rawlocation=".", expressionset, output_path="",...)
 {
   logic_raw <- FALSE
   if(interact == TRUE){

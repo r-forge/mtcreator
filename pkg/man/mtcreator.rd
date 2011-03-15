@@ -1,6 +1,6 @@
 \name{mtcreator}
 \Rdversion{1.1}
-\alias{startUnoGame}
+\alias{mtcreator}
 \title{Creating MAGE-TAB files using mtcreator}
 \description{This package contains a program that supports users in creating files to comply the MIAME-standart compliant format MAGE-TAB. This format enables the user to upload his high dimensional and related metadata to the public database Array Express. The upload is required before you publish the data or results that has been generated using the data.}
 \usage{
