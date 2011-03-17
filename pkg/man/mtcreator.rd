@@ -17,7 +17,7 @@ mtcreator( interact = FALSE,
   \item{rawlocation}{location of the raw data}
   \item{expressionset}{name of the expressionset in your workspace}
   \item{output_path}{path from current location to the folder where the programs output will be placed}
-  \item{...}{}
+  \item{\dots}{additional input parameters(not yet implemented, will be available in a future version)}
 }
 \details{
 The call runs the whole procedure. The files have to be checked afterwards manually
